@@ -5,7 +5,8 @@ from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
 
 
-def send(recip='thead@cern.ch', sender='thead@cern.ch', dry_run=True):
+def send(recip='Tim Head <thead@cern.ch>',
+         sender='Tim Head <thead@cern.ch>'):
     email_text = """Hello all,
 
 it is Thursday, don't forget to bring your bike.
