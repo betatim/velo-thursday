@@ -9,11 +9,11 @@ def send(recip='Tim Head <thead@cern.ch>',
          sender='Tim Head <thead@cern.ch>'):
     email_text = """Hello all,
 
-it is Thursday, don't forget to bring your bike.
+it will be Thursday soon! Go cycling:
 
-6pm, Gate C.
+Thursday, 6pm, Gate C.
 
-We wait for everyone. Bring your own puncture repair kit.
+We wait for everyone. Bring your own puncture repair kit. Don't forget to bring your bike!
 
 T
 ps. this will be the best ride ever!
